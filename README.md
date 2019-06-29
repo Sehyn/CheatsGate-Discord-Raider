@@ -3,7 +3,7 @@
 ![](/Images/FormPicture.png)
 
 
-Video: https://streamable.com/y396x
+Video: https://streamable.com/y8blh
 
 # CheatsGate-Discord-Raider
 .Net Discord Raider for messaging and server join, with a few features such as :
